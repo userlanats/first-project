@@ -1,0 +1,14 @@
+body {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header-bg {
+  background-color: #ededed;
+}
+.section-bg{
+    background-color: #EDEDED;
+}
